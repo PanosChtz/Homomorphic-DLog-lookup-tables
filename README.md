@@ -8,3 +8,6 @@ This is a simple proof-of-concept implementation for Homomorphic decryption in b
 ```
 pip3 install petlib
 ```
+
+## Sample precomputed table
+For secp256r1 curve using Shanks algorithm and Fixedtruncate(), for 2^32 values.
